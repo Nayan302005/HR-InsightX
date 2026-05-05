@@ -19,10 +19,12 @@ This dashboard provides deep insights into employee attrition, demographics, sal
 
 
 📊 Dashboard Features
+
 ✨ Department Filter
 Human Resources
 Research & Development
 Sales
+
 ✨ Interactive Visuals
 Attrition by Education 🎓
 Attrition by Age 👥
@@ -30,6 +32,7 @@ Attrition by Gender 🚻
 Attrition by Salary 💰
 Attrition by Job Role 💼
 Attrition by Years at Company ⏳
+
 ✨ Advanced Table Insights
 Job role-wise attrition breakdown
 Department-level employee analysis
