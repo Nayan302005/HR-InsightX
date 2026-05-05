@@ -76,7 +76,7 @@ This dashboard provides deep insights into employee attrition, demographics, sal
 
 ## 📸 Dashboard Preview
 
-![Dashboard](your-image-link)
+![Dashboard](https://github.com/Nayan302005/HR-InsightX/blob/main/HR%20Analytics_Dashboard.png)
 
 
 ## 🛠️ Tools & Technologies
