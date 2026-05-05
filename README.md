@@ -17,33 +17,29 @@ This dashboard provides deep insights into employee attrition, demographics, sal
 | 💰 Avg Salary      | **6.5K**      |
 
 
-
+⏳ Key Metrics
+⏳ Avg Experience: 7.0 Years
+💰 Avg Salary: 6.5K
 📊 Dashboard Features
-
 ✨ Department Filter
-
 Human Resources
 Research & Development
 Sales
-
 ✨ Interactive Visuals
-
-Attrition by Education 🎓
-Attrition by Age 👥
-Attrition by Gender 🚻
-Attrition by Salary 💰
-Attrition by Job Role 💼
-Attrition by Years at Company ⏳
-
+🎓 Attrition by Education
+👥 Attrition by Age
+🚻 Attrition by Gender
+💰 Attrition by Salary
+💼 Attrition by Job Role
+⏳ Attrition by Years at Company
 ✨ Advanced Table Insights
-
 Job role-wise attrition breakdown
 Department-level employee analysis
 🧠 Key Insights
 📉 Highest Attrition Age Group: 26–35
 💰 Most Attrition in Salary Range: Up to 5K
 👨 Higher Attrition in Males (140) vs Females (79)
-🧪 Top Affected Roles:
+🧪 Top Affected Roles
 Laboratory Technician
 Sales Executive
 Research Scientist
@@ -54,10 +50,3 @@ Research Scientist
 📦 Clean card-based KPI layout
 🎯 Consistent color theme for readability
 ⚡ Smooth visual hierarchy
-📸 Dashboard Preview
-<p align="center"> <img src="your-image-link-here" alt="HR Dashboard Preview" width="90%"/> </p>
-🛠️ Tools & Technologies
-📊 Power BI Desktop
-🧠 DAX (Data Analysis Expressions)
-🔗 Data Modeling & Relationships
-🎨 UI/UX Dashboard Design
